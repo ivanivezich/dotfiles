@@ -1,0 +1,5 @@
+2021/04/10-20:29:14.458 a84 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_telemach.si_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/10-20:29:34.656 a84 Level-0 table #5: started
+2021/04/10-20:29:34.665 a84 Level-0 table #5: 1589 bytes OK
+2021/04/10-20:29:34.676 a84 Delete type=0 #3
+2021/04/10-20:29:34.676 a84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

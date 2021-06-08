@@ -1,0 +1,8 @@
+2021/03/25-00:30:08.440 aade Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mimovrste.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-00:30:08.440 aade Recovering log #7
+2021/03/25-00:30:08.440 aade Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mimovrste.com_0.indexeddb.leveldb/000007.log 
+2021/03/25-00:55:28.503 b025 Level-0 table #11: started
+2021/03/25-00:55:28.503 b025 Level-0 table #11: 0 bytes OK
+2021/03/25-00:55:28.517 b025 Delete type=0 #7
+2021/03/25-00:55:28.517 b025 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/25-00:55:28.517 b025 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

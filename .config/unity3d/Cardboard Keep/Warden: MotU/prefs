@@ -1,0 +1,13 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AAEnabled" type="int">1</pref>
+	<pref name="BloomEnabled" type="int">1</pref>
+	<pref name="DofEnabled" type="int">1</pref>
+	<pref name="InvertCam" type="int">0</pref>
+	<pref name="LightShaftsEnabled" type="int">0</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">480</pref>
+	<pref name="Screenmanager Resolution Width" type="int">800</pref>
+	<pref name="ShowHealthBars" type="int">1</pref>
+	<pref name="UnitySelectMonitor" type="int">-1</pref>
+	<pref name="VsyncEnabled" type="int">1</pref>
+</unity_prefs>

@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_6d7c2e89_e09c_4538_90a5_ccf32ed6b836_\":{\"command\":\"systemctl reboot\",\"name\":\"Reboot\"},\"_74d50566_1512_45bb_8c70_46b25d62cdef_\":{\"command\":\"systemctl poweroff\",\"name\":\"Shutdown\"},\"_a78b75e5_095a_4f0f_9d21_091924afbfe1_\":{\"command\":\"alacritty -e cmatrix -r\",\"name\":\"cmatrix\"}})"

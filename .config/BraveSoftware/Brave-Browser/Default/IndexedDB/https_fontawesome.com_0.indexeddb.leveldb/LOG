@@ -1,0 +1,15 @@
+2021/05/01-22:37:40.169 45c Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/01-22:37:40.170 45c Recovering log #23
+2021/05/01-22:37:40.170 45c Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000023.log 
+2021/05/01-22:43:07.222 f65 Level-0 table #28: started
+2021/05/01-22:43:07.235 f65 Level-0 table #28: 4651 bytes OK
+2021/05/01-22:43:07.248 f65 Delete type=0 #23
+2021/05/01-22:43:07.249 f65 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/01-22:43:07.249 f65 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 2024 : 1
+2021/05/01-22:43:07.249 f65 Compacting 1@1 + 1@2 files
+2021/05/01-22:43:07.258 f65 Generated table #29@1: 53 keys, 1179 bytes
+2021/05/01-22:43:07.258 f65 Compacted 1@1 + 1@2 files => 1179 bytes
+2021/05/01-22:43:07.268 f65 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/01-22:43:07.268 f65 Delete type=2 #25
+2021/05/01-22:43:07.268 f65 Delete type=2 #28
+2021/05/01-22:43:07.269 f65 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 2024 : 1 .. (end); will stop at (end)

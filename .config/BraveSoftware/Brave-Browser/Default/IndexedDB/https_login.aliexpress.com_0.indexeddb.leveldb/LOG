@@ -1,0 +1,15 @@
+2021/04/13-00:21:16.815 ee1 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_login.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-00:21:16.815 ee1 Recovering log #4
+2021/04/13-00:21:16.815 ee1 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_login.aliexpress.com_0.indexeddb.leveldb/000004.log 
+2021/04/13-00:21:54.499 1048 Level-0 table #8: started
+2021/04/13-00:21:54.508 1048 Level-0 table #8: 17363 bytes OK
+2021/04/13-00:21:54.521 1048 Delete type=0 #4
+2021/04/13-00:21:54.521 1048 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/13-00:21:54.522 1048 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x00\x88\xcb\x82\x8cwB\x00\x01Z\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x000\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00?\x00?\x00x\x00l\x00l\x00y\x00/\x00s\x00p\x00l\x00/\x00r\x00p\x00.\x00j\x00s\x00,\x00s\x00e\x00c\x00d\x00e\x00v\x00/\x00n\x00s\x00v\x00/\x001\x00.\x000\x00.\x007\x008\x00/\x00n\x00s\x00_\x00e\x00_\x008\x008\x00_\x003\x00_\x00f\x00.\x00j\x00s\x00?\x00v\x00=\x001' @ 711 : 1
+2021/04/13-00:21:54.522 1048 Compacting 1@1 + 1@2 files
+2021/04/13-00:21:54.532 1048 Generated table #9@1: 96 keys, 7626 bytes
+2021/04/13-00:21:54.532 1048 Compacted 1@1 + 1@2 files => 7626 bytes
+2021/04/13-00:21:54.544 1048 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-00:21:54.545 1048 Delete type=2 #5
+2021/04/13-00:21:54.545 1048 Delete type=2 #8
+2021/04/13-00:21:54.545 1048 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x00\x88\xcb\x82\x8cwB\x00\x01Z\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x000\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00?\x00?\x00x\x00l\x00l\x00y\x00/\x00s\x00p\x00l\x00/\x00r\x00p\x00.\x00j\x00s\x00,\x00s\x00e\x00c\x00d\x00e\x00v\x00/\x00n\x00s\x00v\x00/\x001\x00.\x000\x00.\x007\x008\x00/\x00n\x00s\x00_\x00e\x00_\x008\x008\x00_\x003\x00_\x00f\x00.\x00j\x00s\x00?\x00v\x00=\x001' @ 711 : 1 .. (end); will stop at (end)

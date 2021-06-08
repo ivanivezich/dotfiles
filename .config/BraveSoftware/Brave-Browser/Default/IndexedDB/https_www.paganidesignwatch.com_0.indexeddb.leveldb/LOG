@@ -1,0 +1,15 @@
+2021/05/17-18:43:33.256 7931 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.paganidesignwatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/17-18:43:33.256 7931 Recovering log #4
+2021/05/17-18:43:33.256 7931 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.paganidesignwatch.com_0.indexeddb.leveldb/000004.log 
+2021/05/17-18:44:16.044 89a4 Level-0 table #8: started
+2021/05/17-18:44:16.058 89a4 Level-0 table #8: 899 bytes OK
+2021/05/17-18:44:16.070 89a4 Delete type=0 #4
+2021/05/17-18:44:16.070 89a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/17-18:44:16.070 89a4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01 \x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00a\x00g\x00a\x00n\x00i\x00-\x00d\x00e\x00s\x00i\x00g\x00n\x00-\x00p\x00d\x00-\x001\x006\x006\x000' @ 602 : 1
+2021/05/17-18:44:16.070 89a4 Compacting 1@1 + 1@2 files
+2021/05/17-18:44:16.079 89a4 Generated table #9@1: 110 keys, 2951 bytes
+2021/05/17-18:44:16.079 89a4 Compacted 1@1 + 1@2 files => 2951 bytes
+2021/05/17-18:44:16.091 89a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/17-18:44:16.091 89a4 Delete type=2 #5
+2021/05/17-18:44:16.091 89a4 Delete type=2 #8
+2021/05/17-18:44:16.092 89a4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01 \x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00a\x00g\x00a\x00n\x00i\x00-\x00d\x00e\x00s\x00i\x00g\x00n\x00-\x00p\x00d\x00-\x001\x006\x006\x000' @ 602 : 1 .. (end); will stop at (end)

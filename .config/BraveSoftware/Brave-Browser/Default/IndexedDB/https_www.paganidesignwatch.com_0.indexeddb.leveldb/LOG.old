@@ -1,0 +1,6 @@
+2021/05/17-18:41:43.821 7931 Creating DB /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.paganidesignwatch.com_0.indexeddb.leveldb since it was missing.
+2021/05/17-18:41:43.864 7931 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.paganidesignwatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/17-18:42:53.095 87de Level-0 table #5: started
+2021/05/17-18:42:53.104 87de Level-0 table #5: 9127 bytes OK
+2021/05/17-18:42:53.117 87de Delete type=0 #3
+2021/05/17-18:42:53.117 87de Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/04/11-01:59:25.633 33d1 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/11-01:59:28.080 33cf Level-0 table #5: started
+2021/04/11-01:59:28.094 33cf Level-0 table #5: 7297 bytes OK
+2021/04/11-01:59:28.110 33cf Delete type=0 #3
+2021/04/11-01:59:28.110 33cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

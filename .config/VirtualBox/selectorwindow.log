@@ -1,0 +1,31 @@
+00:00:00.405920 VirtualBox GUI VM Selector Window 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:00.405922 Log opened 2021-04-19T15:33:37.950107000Z
+00:00:00.405923 Build Type: release
+00:00:00.405925 OS Product: Linux
+00:00:00.405926 OS Release: 5.11.15-arch1-2
+00:00:00.405927 OS Version: #1 SMP PREEMPT Sat, 17 Apr 2021 00:22:30 +0000
+00:00:00.405948 DMI Product Name: 4291W71
+00:00:00.405957 DMI Product Version: ThinkPad X220
+00:00:00.405964 Firmware type: BIOS
+00:00:00.406002 Host RAM: 7837MB (7.6GB) total, 6754MB (6.5GB) available
+00:00:00.406005 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.406005 Process ID: 15617
+00:00:00.406005 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.406030 Qt version: 5.15.2
+00:00:00.451679 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.451706 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.124487 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 5x24 x 671x733
+00:00:59.706976 GUI: UIMediumEnumerator: Medium with key={{21629d13-a994-44fe-bef7-a84d90df6cf6}} created
+00:00:59.880243 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:59.361974 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:16.865607 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:21.372243 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:21.422530 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:17.483483 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:37.990067 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:03.655944 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:09.708920 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:26.535649 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:27.142237 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:27.194775 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:38:11.846103 GUI: UIMediumEnumerator: Medium-enumeration finished!

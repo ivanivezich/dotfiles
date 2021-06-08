@@ -1,0 +1,6 @@
+2021/05/31-12:41:17.645 b330 Creating DB /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb since it was missing.
+2021/05/31-12:41:17.676 b330 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/31-12:41:52.221 b331 Level-0 table #5: started
+2021/05/31-12:41:52.230 b331 Level-0 table #5: 1386 bytes OK
+2021/05/31-12:41:52.241 b331 Delete type=0 #3
+2021/05/31-12:41:52.242 b331 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

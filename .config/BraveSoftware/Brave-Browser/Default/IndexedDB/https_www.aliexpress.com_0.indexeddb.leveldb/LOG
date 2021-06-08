@@ -1,0 +1,15 @@
+2021/05/17-18:49:49.000 87df Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/17-18:49:49.000 87df Recovering log #331
+2021/05/17-18:49:49.000 87df Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.aliexpress.com_0.indexeddb.leveldb/000331.log 
+2021/05/17-18:50:13.956 93e1 Level-0 table #336: started
+2021/05/17-18:50:13.969 93e1 Level-0 table #336: 2514 bytes OK
+2021/05/17-18:50:13.980 93e1 Delete type=0 #331
+2021/05/17-18:50:13.980 93e1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/17-18:50:13.980 93e1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 3291 : 1
+2021/05/17-18:50:13.980 93e1 Compacting 1@1 + 1@2 files
+2021/05/17-18:50:13.988 93e1 Generated table #337@1: 39 keys, 2946 bytes
+2021/05/17-18:50:13.988 93e1 Compacted 1@1 + 1@2 files => 2946 bytes
+2021/05/17-18:50:14.001 93e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/17-18:50:14.001 93e1 Delete type=2 #336
+2021/05/17-18:50:14.001 93e1 Delete type=2 #333
+2021/05/17-18:50:14.001 93e1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 3291 : 1 .. (end); will stop at (end)

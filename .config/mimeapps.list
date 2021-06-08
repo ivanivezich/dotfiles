@@ -1,0 +1,12 @@
+[Added Associations]
+application/x-bittorrent=transmission-gtk.desktop;
+image/jpeg=mpv.desktop;
+application/zip=xarchiver.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-UWLW10.desktop;
+
+[Default Applications]
+x-scheme-handler/mailspring=mailspring.desktop
+x-scheme-handler/viber=viber.desktop
+x-scheme-handler/magnet=transmission-gtk.desktop
+application/zip=xarchiver.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-UWLW10.desktop

@@ -1,0 +1,15 @@
+2021/03/24-19:36:51.382 943d Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-19:36:51.382 943d Recovering log #7
+2021/03/24-19:36:51.382 943d Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000007.log 
+2021/03/25-00:00:57.203 98ea Level-0 table #12: started
+2021/03/25-00:00:57.216 98ea Level-0 table #12: 230487 bytes OK
+2021/03/25-00:00:57.230 98ea Delete type=0 #7
+2021/03/25-00:00:57.230 98ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/25-00:00:57.231 98ea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 1085 : 1
+2021/03/25-00:00:57.231 98ea Compacting 1@1 + 1@2 files
+2021/03/25-00:00:57.241 98ea Generated table #13@1: 38 keys, 28199 bytes
+2021/03/25-00:00:57.241 98ea Compacted 1@1 + 1@2 files => 28199 bytes
+2021/03/25-00:00:57.252 98ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/25-00:00:57.252 98ea Delete type=2 #9
+2021/03/25-00:00:57.252 98ea Delete type=2 #12
+2021/03/25-00:00:57.253 98ea Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 1085 : 1 .. (end); will stop at (end)

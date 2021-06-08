@@ -1,0 +1,6 @@
+2021/04/28-15:36:05.417 280d Creating DB /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.peerlator.com_0.indexeddb.leveldb since it was missing.
+2021/04/28-15:36:05.556 280d Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.peerlator.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/28-15:36:37.788 279d Level-0 table #5: started
+2021/04/28-15:36:37.839 279d Level-0 table #5: 1431 bytes OK
+2021/04/28-15:36:37.907 279d Delete type=0 #3
+2021/04/28-15:36:37.908 279d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

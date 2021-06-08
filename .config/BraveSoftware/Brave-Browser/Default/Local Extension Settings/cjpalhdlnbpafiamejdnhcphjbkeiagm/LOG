@@ -1,0 +1,25 @@
+2021/06/08-12:59:06.408 e8c3 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/06/08-12:59:06.408 e8c3 Recovering log #701
+2021/06/08-12:59:06.409 e8c3 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000701.log 
+2021/06/08-13:12:10.711 11d46 Level-0 table #705: started
+2021/06/08-13:12:10.746 11d46 Level-0 table #705: 1340780 bytes OK
+2021/06/08-13:12:10.758 11d46 Delete type=0 #701
+2021/06/08-13:16:11.184 e8c3 Level-0 table #707: started
+2021/06/08-13:16:11.223 e8c3 Level-0 table #707: 1726137 bytes OK
+2021/06/08-13:16:11.240 e8c3 Delete type=0 #704
+2021/06/08-13:23:12.682 e8c3 Level-0 table #709: started
+2021/06/08-13:23:12.727 e8c3 Level-0 table #709: 2472898 bytes OK
+2021/06/08-13:23:12.741 e8c3 Delete type=0 #706
+2021/06/08-13:23:12.742 e8c3 Compacting 4@0 + 3@1 files
+2021/06/08-13:23:12.796 e8c3 Generated table #710@0: 17 keys, 2129748 bytes
+2021/06/08-13:23:12.854 e8c3 Generated table #711@0: 8 keys, 2941209 bytes
+2021/06/08-13:23:12.886 e8c3 Generated table #712@0: 13 keys, 718063 bytes
+2021/06/08-13:23:12.886 e8c3 Compacted 4@0 + 3@1 files => 5789020 bytes
+2021/06/08-13:23:12.898 e8c3 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #702
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #707
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #698
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #699
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #709
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #700
+2021/06/08-13:23:12.899 e8c3 Delete type=2 #705

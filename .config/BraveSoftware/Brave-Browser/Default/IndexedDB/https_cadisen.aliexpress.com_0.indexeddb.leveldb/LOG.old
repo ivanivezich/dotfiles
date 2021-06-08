@@ -1,0 +1,5 @@
+2021/03/22-11:16:24.212 a18 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cadisen.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-11:17:01.206 a17 Level-0 table #5: started
+2021/03/22-11:17:01.221 a17 Level-0 table #5: 1637 bytes OK
+2021/03/22-11:17:01.232 a17 Delete type=0 #3
+2021/03/22-11:17:01.232 a17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

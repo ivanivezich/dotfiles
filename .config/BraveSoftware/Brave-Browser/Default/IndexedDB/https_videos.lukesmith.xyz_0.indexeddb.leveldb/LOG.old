@@ -1,0 +1,140 @@
+2021/03/03-00:18:20.480 d6a5 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/03-00:18:26.140 a7f9 Level-0 table #5: started
+2021/03/03-00:18:26.408 a7f9 Level-0 table #5: 4051143 bytes OK
+2021/03/03-00:18:26.541 a7f9 Delete type=0 #3
+2021/03/03-00:18:30.273 a7f9 Level-0 table #7: started
+2021/03/03-00:18:30.557 a7f9 Level-0 table #7: 4194046 bytes OK
+2021/03/03-00:18:30.622 a7f9 Delete type=0 #4
+2021/03/03-00:18:34.471 a7f9 Level-0 table #9: started
+2021/03/03-00:18:34.731 a7f9 Level-0 table #9: 4161466 bytes OK
+2021/03/03-00:18:34.786 a7f9 Delete type=0 #6
+2021/03/03-00:18:39.594 a7f9 Level-0 table #11: started
+2021/03/03-00:18:39.890 a7f9 Level-0 table #11: 4162663 bytes OK
+2021/03/03-00:18:39.970 a7f9 Delete type=0 #8
+2021/03/03-00:18:45.931 d6a5 Level-0 table #13: started
+2021/03/03-00:18:46.213 d6a5 Level-0 table #13: 4161680 bytes OK
+2021/03/03-00:18:46.293 d6a5 Delete type=0 #10
+2021/03/03-00:18:50.047 bfaa Level-0 table #15: started
+2021/03/03-00:18:50.294 bfaa Level-0 table #15: 4161473 bytes OK
+2021/03/03-00:18:50.407 bfaa Delete type=0 #12
+2021/03/03-00:18:50.408 d96c Compacting 4@0 + 1@1 files
+2021/03/03-00:18:50.560 d96c Generated table #16@0: 1984 keys, 2125062 bytes
+2021/03/03-00:18:50.734 d96c Generated table #17@0: 64 keys, 2107676 bytes
+2021/03/03-00:18:50.907 d96c Generated table #18@0: 64 keys, 2107675 bytes
+2021/03/03-00:18:51.080 d96c Generated table #19@0: 64 keys, 2107676 bytes
+2021/03/03-00:18:51.277 d96c Generated table #20@0: 64 keys, 2107675 bytes
+2021/03/03-00:18:51.449 d96c Generated table #21@0: 64 keys, 2107676 bytes
+2021/03/03-00:18:51.621 d96c Generated table #22@0: 64 keys, 2107675 bytes
+2021/03/03-00:18:51.766 d96c Generated table #23@0: 64 keys, 2107678 bytes
+2021/03/03-00:18:51.913 d96c Generated table #24@0: 64 keys, 2107672 bytes
+2021/03/03-00:18:52.048 d96c Generated table #25@0: 686 keys, 1819929 bytes
+2021/03/03-00:18:52.048 d96c Compacted 4@0 + 1@1 files => 20806394 bytes
+2021/03/03-00:18:52.114 d96c compacted to: files[ 0 10 1 0 0 0 0 ]
+2021/03/03-00:18:52.115 d96c Delete type=2 #15
+2021/03/03-00:18:52.115 d96c Delete type=2 #9
+2021/03/03-00:18:52.115 d96c Delete type=2 #13
+2021/03/03-00:18:52.115 d96c Delete type=2 #11
+2021/03/03-00:18:52.115 d96c Delete type=2 #7
+2021/03/03-00:18:52.119 bfaa Expanding@1 1+1 (2125062+4051143 bytes) to 10+1 (20806394+4051143 bytes)
+2021/03/03-00:18:52.119 bfaa Compacting 10@1 + 1@2 files
+2021/03/03-00:18:52.306 bfaa Generated table #26@1: 174 keys, 2129639 bytes
+2021/03/03-00:18:52.457 bfaa Generated table #27@1: 64 keys, 2107618 bytes
+2021/03/03-00:18:52.600 bfaa Generated table #28@1: 64 keys, 2107679 bytes
+2021/03/03-00:18:52.746 bfaa Generated table #29@1: 64 keys, 2107675 bytes
+2021/03/03-00:18:52.892 bfaa Generated table #30@1: 64 keys, 2107676 bytes
+2021/03/03-00:18:53.033 bfaa Generated table #31@1: 64 keys, 2107677 bytes
+2021/03/03-00:18:53.211 bfaa Generated table #32@1: 64 keys, 2107675 bytes
+2021/03/03-00:18:53.387 bfaa Generated table #33@1: 64 keys, 2107677 bytes
+2021/03/03-00:18:53.528 bfaa Generated table #34@1: 64 keys, 2107674 bytes
+2021/03/03-00:18:53.674 bfaa Generated table #35@1: 64 keys, 2107676 bytes
+2021/03/03-00:18:53.817 bfaa Generated table #36@1: 64 keys, 2107675 bytes
+2021/03/03-00:18:53.931 bfaa Generated table #37@1: 805 keys, 1623995 bytes
+2021/03/03-00:18:53.931 bfaa Compacted 10@1 + 1@2 files => 24830336 bytes
+2021/03/03-00:18:54.052 bfaa compacted to: files[ 0 0 12 0 0 0 0 ]
+2021/03/03-00:18:54.053 bfaa Delete type=2 #17
+2021/03/03-00:18:54.053 bfaa Delete type=2 #5
+2021/03/03-00:18:54.053 bfaa Delete type=2 #22
+2021/03/03-00:18:54.053 bfaa Delete type=2 #16
+2021/03/03-00:18:54.053 bfaa Delete type=2 #21
+2021/03/03-00:18:54.053 bfaa Delete type=2 #24
+2021/03/03-00:18:54.053 bfaa Delete type=2 #20
+2021/03/03-00:18:54.053 bfaa Delete type=2 #25
+2021/03/03-00:18:54.053 bfaa Delete type=2 #19
+2021/03/03-00:18:54.053 bfaa Delete type=2 #23
+2021/03/03-00:18:54.053 bfaa Delete type=2 #18
+2021/03/03-00:18:55.174 bfaa Level-0 table #39: started
+2021/03/03-00:18:55.486 bfaa Level-0 table #39: 4162640 bytes OK
+2021/03/03-00:18:55.557 bfaa Delete type=0 #14
+2021/03/03-00:18:59.291 d96c Level-0 table #41: started
+2021/03/03-00:18:59.566 d96c Level-0 table #41: 4194163 bytes OK
+2021/03/03-00:18:59.633 d96c Delete type=0 #38
+2021/03/03-00:19:04.396 d96c Level-0 table #43: started
+2021/03/03-00:19:04.688 d96c Level-0 table #43: 4162366 bytes OK
+2021/03/03-00:19:04.753 d96c Delete type=0 #40
+2021/03/03-00:26:14.076 11f48 Level-0 table #45: started
+2021/03/03-00:26:14.266 11f48 Level-0 table #45: 3232376 bytes OK
+2021/03/03-00:26:14.332 11f48 Delete type=0 #42
+2021/03/03-00:26:14.333 11f48 Compacting 4@0 + 0@1 files
+2021/03/03-00:26:14.380 11f48 Generated table #46@0: 1570 keys, 13486 bytes
+2021/03/03-00:26:14.527 11f48 Generated table #47@0: 64 keys, 2107675 bytes
+2021/03/03-00:26:14.674 11f48 Generated table #48@0: 64 keys, 2107676 bytes
+2021/03/03-00:26:14.817 11f48 Generated table #49@0: 64 keys, 2107675 bytes
+2021/03/03-00:26:14.952 11f48 Generated table #50@0: 64 keys, 2107674 bytes
+2021/03/03-00:26:15.088 11f48 Generated table #51@0: 64 keys, 2107674 bytes
+2021/03/03-00:26:15.231 11f48 Generated table #52@0: 64 keys, 2107674 bytes
+2021/03/03-00:26:15.375 11f48 Generated table #53@0: 64 keys, 2107676 bytes
+2021/03/03-00:26:15.459 11f48 Generated table #54@0: 507 keys, 952518 bytes
+2021/03/03-00:26:15.459 11f48 Compacted 4@0 + 0@1 files => 15719728 bytes
+2021/03/03-00:26:15.515 11f48 compacted to: files[ 0 9 12 0 0 0 0 ]
+2021/03/03-00:26:15.516 11f48 Delete type=2 #45
+2021/03/03-00:26:15.516 11f48 Delete type=2 #43
+2021/03/03-00:26:15.516 11f48 Delete type=2 #41
+2021/03/03-00:26:15.516 11f48 Delete type=2 #39
+2021/03/03-00:26:15.521 10558 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/03-00:26:15.521 11f48 Expanding@1 2+12 (2121161+24830336 bytes) to 9+12 (15719728+24830336 bytes)
+2021/03/03-00:26:15.521 11f48 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00D\x93@' @ 11243 : 1
+2021/03/03-00:26:15.521 11f48 Compacting 9@1 + 12@2 files
+2021/03/03-00:26:15.667 11f48 Generated table #55@1: 106 keys, 2128578 bytes
+2021/03/03-00:26:15.810 11f48 Generated table #56@1: 64 keys, 2107618 bytes
+2021/03/03-00:26:15.952 11f48 Generated table #57@1: 64 keys, 2107679 bytes
+2021/03/03-00:26:16.087 11f48 Generated table #58@1: 64 keys, 2107675 bytes
+2021/03/03-00:26:16.227 11f48 Generated table #59@1: 64 keys, 2107676 bytes
+2021/03/03-00:26:16.369 11f48 Generated table #60@1: 64 keys, 2107677 bytes
+2021/03/03-00:26:16.509 11f48 Generated table #61@1: 64 keys, 2107675 bytes
+2021/03/03-00:26:16.649 11f48 Generated table #62@1: 64 keys, 2107677 bytes
+2021/03/03-00:26:16.804 11f48 Generated table #63@1: 64 keys, 2107674 bytes
+2021/03/03-00:26:16.945 11f48 Generated table #64@1: 64 keys, 2107676 bytes
+2021/03/03-00:26:17.085 11f48 Generated table #65@1: 64 keys, 2107675 bytes
+2021/03/03-00:26:17.234 11f48 Generated table #66@1: 64 keys, 2107674 bytes
+2021/03/03-00:26:17.379 11f48 Generated table #67@1: 64 keys, 2107673 bytes
+2021/03/03-00:26:17.528 11f48 Generated table #68@1: 64 keys, 2107676 bytes
+2021/03/03-00:26:17.667 11f48 Generated table #69@1: 64 keys, 2107675 bytes
+2021/03/03-00:26:17.809 11f48 Generated table #70@1: 64 keys, 2107674 bytes
+2021/03/03-00:26:17.956 11f48 Generated table #71@1: 64 keys, 2107673 bytes
+2021/03/03-00:26:18.098 11f48 Generated table #72@1: 64 keys, 2107674 bytes
+2021/03/03-00:26:18.239 11f48 Generated table #73@1: 64 keys, 2107674 bytes
+2021/03/03-00:26:18.294 11f48 Generated table #74@1: 1248 keys, 468857 bytes
+2021/03/03-00:26:18.294 11f48 Compacted 9@1 + 12@2 files => 40535530 bytes
+2021/03/03-00:26:18.363 11f48 compacted to: files[ 0 0 20 0 0 0 0 ]
+2021/03/03-00:26:18.366 11f48 Delete type=2 #31
+2021/03/03-00:26:18.366 11f48 Delete type=2 #46
+2021/03/03-00:26:18.366 11f48 Delete type=2 #27
+2021/03/03-00:26:18.366 11f48 Delete type=2 #49
+2021/03/03-00:26:18.366 11f48 Delete type=2 #53
+2021/03/03-00:26:18.366 11f48 Delete type=2 #54
+2021/03/03-00:26:18.366 11f48 Delete type=2 #29
+2021/03/03-00:26:18.366 11f48 Delete type=2 #26
+2021/03/03-00:26:18.366 11f48 Delete type=2 #32
+2021/03/03-00:26:18.366 11f48 Delete type=2 #35
+2021/03/03-00:26:18.366 11f48 Delete type=2 #50
+2021/03/03-00:26:18.366 11f48 Delete type=2 #51
+2021/03/03-00:26:18.366 11f48 Delete type=2 #47
+2021/03/03-00:26:18.366 11f48 Delete type=2 #33
+2021/03/03-00:26:18.366 11f48 Delete type=2 #37
+2021/03/03-00:26:18.366 11f48 Delete type=2 #52
+2021/03/03-00:26:18.366 11f48 Delete type=2 #36
+2021/03/03-00:26:18.366 11f48 Delete type=2 #48
+2021/03/03-00:26:18.366 11f48 Delete type=2 #28
+2021/03/03-00:26:18.367 11f48 Delete type=2 #34
+2021/03/03-00:26:18.367 11f48 Delete type=2 #30
+2021/03/03-00:26:18.376 11f48 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00D\x93@' @ 11243 : 1 .. (end); will stop at (end)

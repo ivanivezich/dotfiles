@@ -1,0 +1,6 @@
+2021/04/20-12:33:32.085 eae Creating DB /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_finance.yahoo.com_0.indexeddb.leveldb since it was missing.
+2021/04/20-12:33:32.116 eae Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_finance.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-13:01:01.474 1331 Level-0 table #5: started
+2021/04/20-13:01:01.488 1331 Level-0 table #5: 1043 bytes OK
+2021/04/20-13:01:01.500 1331 Delete type=0 #3
+2021/04/20-13:01:01.501 1331 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/04/20-12:58:47.365 1253 Creating DB /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb since it was missing.
+2021/04/20-12:58:47.395 1253 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-12:59:33.599 1331 Level-0 table #5: started
+2021/04/20-12:59:33.608 1331 Level-0 table #5: 7831 bytes OK
+2021/04/20-12:59:33.620 1331 Delete type=0 #3
+2021/04/20-12:59:33.620 1331 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

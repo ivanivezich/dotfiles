@@ -1,0 +1,15 @@
+2021/05/17-17:16:13.037 3b6 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_eon.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/17-17:16:13.037 3b6 Recovering log #15
+2021/05/17-17:16:13.040 3b6 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_eon.tv_0.indexeddb.leveldb/000015.log 
+2021/05/17-17:16:16.574 49f Level-0 table #20: started
+2021/05/17-17:16:16.584 49f Level-0 table #20: 33440 bytes OK
+2021/05/17-17:16:16.596 49f Delete type=0 #15
+2021/05/17-17:16:16.596 49f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/17-17:16:16.596 49f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x0d\x1f\x01\x03\x00s\x00l\x00v\x00\x01\x03\x00s\x00l\x00v' @ 1596 : 1
+2021/05/17-17:16:16.596 49f Compacting 1@1 + 1@2 files
+2021/05/17-17:16:16.605 49f Generated table #21@1: 220 keys, 13520 bytes
+2021/05/17-17:16:16.605 49f Compacted 1@1 + 1@2 files => 13520 bytes
+2021/05/17-17:16:16.617 49f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/17-17:16:16.617 49f Delete type=2 #17
+2021/05/17-17:16:16.617 49f Delete type=2 #20
+2021/05/17-17:16:16.618 49f Manual compaction at level-1 from '\x00\x01\x0d\x1f\x01\x03\x00s\x00l\x00v\x00\x01\x03\x00s\x00l\x00v' @ 1596 : 1 .. (end); will stop at (end)

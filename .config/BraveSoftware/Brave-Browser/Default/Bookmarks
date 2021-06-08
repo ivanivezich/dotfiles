@@ -1,0 +1,334 @@
+{
+   "checksum": "4f52d594f5304e5882c0176cf67613c2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13248193473000000",
+            "guid": "30f4086e-b336-4eda-854f-63802b34ef11",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "5406a9ee-7653-4d9d-991a-e5929506fd5b",
+            "id": "6",
+            "name": "Partis.si",
+            "type": "url",
+            "url": "http://www.partis.si/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "08e17b74-dd52-4e67-aaf3-6168b266bdf0",
+            "id": "8",
+            "name": "Ecigone",
+            "type": "url",
+            "url": "https://www.ecigone.co.uk/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "8bb562ea-3032-4244-86eb-63877d15e186",
+            "id": "7",
+            "name": "reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "34178845-451e-47d0-8bdf-34701e8858d2",
+            "id": "9",
+            "name": "3FVape",
+            "type": "url",
+            "url": "https://www.3fvape.com/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "7d9bf26c-e9ff-4b1c-8cad-3f8f91c5e1f2",
+            "id": "10",
+            "name": "FastTech",
+            "type": "url",
+            "url": "https://www.fasttech.com/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "b414e661-7b79-4a91-850f-1232cdc9bc0d",
+            "id": "11",
+            "name": "Le Petit Vapoteur",
+            "type": "url",
+            "url": "https://www.lepetitvapoteur.com/en/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "32f23b40-2bf0-4789-9e3e-0b4a909734d9",
+            "id": "12",
+            "name": "eBay",
+            "type": "url",
+            "url": "https://www.ebay.com/"
+         }, {
+            "date_added": "13249599810000000",
+            "guid": "87f72e85-c34b-4105-b6ad-60d48a66e174",
+            "id": "13",
+            "name": "The Pirate Bay",
+            "type": "url",
+            "url": "https://pirate-proxy-bay.org/en/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "e059341a-84d2-4256-a039-552c10463163",
+            "id": "14",
+            "name": "xda",
+            "type": "url",
+            "url": "https://forum.xda-developers.com/c/xiaomi-poco-f1.8089/"
+         }, {
+            "date_added": "13249599845000000",
+            "guid": "7f7d8a3e-b78e-43ae-990e-e8865b9f338a",
+            "id": "15",
+            "name": "SoccerStreams",
+            "type": "url",
+            "url": "https://reddiit.soccerstreams.net/home"
+         }, {
+            "date_added": "13250651583000000",
+            "guid": "2afc41ce-210d-4b5e-89d2-3c5b58243067",
+            "id": "17",
+            "name": "Arch",
+            "type": "url",
+            "url": "https://archlinux.org/"
+         }, {
+            "date_added": "13259199224301097",
+            "guid": "616fec52-0a53-4952-acc4-de946e30626d",
+            "id": "48",
+            "name": "/g/ ",
+            "type": "url",
+            "url": "https://boards.4channel.org/g/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "b03f0e47-7c4c-470c-90e8-77f2380ceea6",
+            "id": "18",
+            "name": "1377x",
+            "type": "url",
+            "url": "https://www.1377x.to/"
+         }, {
+            "date_added": "13253374326000000",
+            "guid": "3803698b-5adf-4096-9e02-6d4bebe5665b",
+            "id": "19",
+            "name": "EON ",
+            "type": "url",
+            "url": "https://eon.tv/"
+         }, {
+            "date_added": "13254262731000000",
+            "guid": "0f1732c2-1725-46af-8ca5-ab4b45279b85",
+            "id": "20",
+            "name": "[tomato] ",
+            "type": "url",
+            "url": "http://192.168.1.1/"
+         }, {
+            "date_added": "13249517729000000",
+            "guid": "19898593-790c-4da3-8986-9da3166e27d8",
+            "id": "16",
+            "name": "LARBS/progs",
+            "type": "url",
+            "url": "https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv"
+         }, {
+            "date_added": "13253667409000000",
+            "guid": "178ccf66-a8cb-4871-a8c9-ed0cf09cf049",
+            "id": "21",
+            "name": "AliExpress TOP 15 products for Alfa Romeo [DRL, interior LED, badges, multimedia, key, cutoff valve] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=z4r4WOoQlfo"
+         }, {
+            "date_added": "13253128306000000",
+            "guid": "cf651149-2f89-4f98-a3a0-7b3712b86e3c",
+            "id": "22",
+            "name": "Hugo",
+            "type": "url",
+            "url": "https://gohugo.io/"
+         }, {
+            "date_added": "13250653515000000",
+            "guid": "2f10499f-1888-4f13-b7d5-90c9d4fe0424",
+            "id": "23",
+            "name": "Transmission",
+            "type": "url",
+            "url": "http://localhost:9091/transmission/web/"
+         }, {
+            "date_added": "13250863247000000",
+            "guid": "2fc76e31-5daa-4e82-8a6e-6a8aeba2e9a2",
+            "id": "24",
+            "name": "How to customize dwm :: László Szurok",
+            "type": "url",
+            "url": "https://laszloszurok.github.io/blog/dwm-rice/"
+         }, {
+            "date_added": "13253010099000000",
+            "guid": "0b81941e-1adf-409f-bfa1-53bd8e36868d",
+            "id": "26",
+            "name": "Online Ascii Art Creator",
+            "type": "url",
+            "url": "https://www.ascii-art-generator.org/"
+         }, {
+            "date_added": "13250387352000000",
+            "guid": "4c473204-05d3-4665-b1f9-774439a7c867",
+            "id": "27",
+            "name": "3ND 2ND GA2100 Watch Band Strap Bezel Metal Stainless Steel Second Generation Frame Bracelet Accessory GA2110 Watchband|Watchbands| - AliExpress",
+            "type": "url",
+            "url": "https://www.aliexpress.com/item/4001256350173.html?pvid=860490bb-4e14-44c0-b109-2f1dd52de822&_t=gps-id%3ApcDetail404%2Cscm-url%3A1007.16891.96945.0%2Cpvid%3A860490bb-4e14-44c0-b109-2f1dd52de822%2Ctpp_buckets%3A668%230%23131923%230_668%23808%233772%23907_668%23888%233325%2319_668%232846%238114%23715_668%232717%237561%23361__668%233374%2315176%23558&aff_platform=portals-tool&sk=_d7GiDJp&aff_trace_key=3eeb60634e9c4f7493985a4db7e79a3f-1605896837345-07417-_d7GiDJp&gps-id=pcDetail404&scm=1007.16891.96945.0&scm-url=1007.16891.96945.0&scm_id=1007.16891.96945.0&terminal_id=b99bc444914f437dbea9bd4100830b89&tmLog=new_Detail"
+         }, {
+            "date_added": "13250369586000000",
+            "guid": "6c36acb4-dbdc-4314-b057-3524083d96b3",
+            "id": "28",
+            "name": "GitHub - astrolince/hosty: System-wide ad blocker for Linux",
+            "type": "url",
+            "url": "https://github.com/astrolince/hosty"
+         }, {
+            "date_added": "13249814882000000",
+            "guid": "c0d49bf4-eb3f-41ba-8572-b00e2800d059",
+            "id": "29",
+            "name": "GitHub - chubin/cheat.sh: the only cheat sheet you need",
+            "type": "url",
+            "url": "https://github.com/chubin/cheat.sh"
+         }, {
+            "date_added": "13249523591000000",
+            "guid": "d3c4c53e-4e2e-409c-ad6c-96b0ea420dad",
+            "id": "30",
+            "name": "Screen brightness in DWM : suckless",
+            "type": "url",
+            "url": "https://www.reddit.com/r/suckless/comments/jkn7sh/screen_brightness_in_dwm/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "13336c98-3bda-4c48-a794-678456ea09a6",
+            "id": "31",
+            "name": "FTUApps",
+            "type": "url",
+            "url": "https://ftuapps.dev/"
+         }, {
+            "date_added": "13254630096000000",
+            "guid": "888437ba-c5b0-4ac2-964a-6263b5cf88c6",
+            "id": "32",
+            "name": "Vostok Watch Amphibia 2415.01/080494 to buy. photo, specifications, description",
+            "type": "url",
+            "url": "https://meranom.com/en/amfibia/reef/vostok-watch-amphibia-241501-080494.html"
+         }, {
+            "date_added": "13254630724000000",
+            "guid": "6e7453d3-3369-4bff-ad83-3a8e3719d0d3",
+            "id": "33",
+            "name": "Vostok Watch Amphibia 2415.01/080495B to buy. photo, specifications, description",
+            "type": "url",
+            "url": "https://meranom.com/en/amfibia/vostok-watch-amphibia-241501-080495b.html"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "5cae248c-0131-4474-89f9-6a6e07845686",
+            "id": "34",
+            "name": "ThinkPad X220: Arch Linux Notes - Wiki³",
+            "type": "url",
+            "url": "https://kyau.net/wiki/ThinkPad:ArchLinux"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "c798a7a5-cf10-42f5-8b9c-6dadb80e330a",
+            "id": "35",
+            "name": "ThinkWiki",
+            "type": "url",
+            "url": "http://www.thinkwiki.org/wiki/ThinkWiki"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "79f506c0-cfbd-4176-aa90-2f865439d1da",
+            "id": "36",
+            "name": "How to Install ELM327 USB Cable on Windows and OBD2 Software | Car OBD Diagnostics, ECU Chip Tuning & Auto Repair Support",
+            "type": "url",
+            "url": "http://www.totalcardiagnostics.com/support/Knowledgebase/Article/View/1/0/how-to-install-elm327-usb-cable-on-windows-and-obd2-software"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "7f4a6028-defc-4b8c-812b-f86df50ce4ce",
+            "id": "37",
+            "name": "Useful links for openbox/tint2/urxvt · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/downthecrop/ca982f8f8d906437b5932d0515e8897d"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "0a2a0d22-ea05-4b8a-8b32-f29b3ce2bbf9",
+            "id": "38",
+            "name": "How to reduce power consumption - ThinkWiki",
+            "type": "url",
+            "url": "http://www.thinkwiki.org/wiki/How_to_reduce_power_consumption"
+         }, {
+            "date_added": "13252786080000000",
+            "guid": "4fcf5663-ccc3-466e-b44b-d5f05f072674",
+            "id": "39",
+            "name": "Seiko Mods & Watch Mod Parts | namokiMODS",
+            "type": "url",
+            "url": "https://www.namokimods.com/"
+         }, {
+            "date_added": "13248193473000000",
+            "guid": "c9a84065-cd70-48b8-be28-7772a98cf355",
+            "id": "40",
+            "name": "The Vaping Gentlemen Club",
+            "type": "url",
+            "url": "https://thevapinggentlemen.club/"
+         }, {
+            "date_added": "13250387349000000",
+            "guid": "49cd5e90-bab9-4547-8cde-589fb4d93dee",
+            "id": "41",
+            "name": "For GA 2100 GA2100 Metal Watch Band Strap Bezel/Case 316L Stainless Steel Steel Belt With Tools Wholesale Watchband GA2100|Watchbands| - AliExpress",
+            "type": "url",
+            "url": "https://www.aliexpress.com/item/4000850535483.html?spm=a2g0s.9042311.0.0.6b8f4c4dl87Het&aff_platform=portals-tool&sk=_dYwPOk3&aff_trace_key=9c04fc6193244562ba0921466cb62704-1605896838579-01457-_dYwPOk3&terminal_id=b99bc444914f437dbea9bd4100830b89&tmLog=new_Detail"
+         }, {
+            "date_added": "13250612162000000",
+            "guid": "b64a88b9-b871-4f96-b4fe-1410e11f6846",
+            "id": "42",
+            "name": "dwm/config.h at master · LukeSmithxyz/dwm · GitHub",
+            "type": "url",
+            "url": "https://github.com/LukeSmithxyz/dwm/blob/master/config.h"
+         }, {
+            "date_added": "13252057645000000",
+            "guid": "06e62645-a825-41b9-8bb4-a8dd15836ffc",
+            "id": "43",
+            "name": "GitHub - bseibold/tpkbdctl: Thinkpad USB Keyboard Control Tool",
+            "type": "url",
+            "url": "https://github.com/bseibold/tpkbdctl"
+         }, {
+            "date_added": "13250636438000000",
+            "guid": "41ceb64a-a53b-4cef-a98f-e4cd591aac9c",
+            "id": "44",
+            "name": "Display Power Management Signaling - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Display_Power_Management_Signaling"
+         }, {
+            "date_added": "13258570584638818",
+            "guid": "c1c5a3d4-3fee-4356-8a8d-c161ce85302c",
+            "id": "46",
+            "name": "auto-cpufreq: Automatic CPU speed & power optimizer for Linux",
+            "type": "url",
+            "url": "https://github.com/AdnanHodzic/auto-cpufreq"
+         }, {
+            "date_added": "13262289252952646",
+            "guid": "95c44f15-7127-4120-a34a-14af94f7b352",
+            "id": "50",
+            "name": "facebook breach",
+            "type": "url",
+            "url": "https://archive.is/MZqak"
+         }, {
+            "date_added": "13264354404790704",
+            "guid": "cd4957df-8a7d-440f-bbcd-8b4219f33209",
+            "id": "52",
+            "name": "GitHub - bakkeby/dwm-flexipatch: A dwm build with preprocessor directives to decide which patches to include during build time",
+            "type": "url",
+            "url": "https://github.com/bakkeby/dwm-flexipatch"
+         } ],
+         "date_added": "13254849595441892",
+         "date_modified": "13264354404790704",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13254849595441895",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13254849595441902",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

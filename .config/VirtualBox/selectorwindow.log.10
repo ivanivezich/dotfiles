@@ -1,0 +1,23 @@
+00:00:00.501800 VirtualBox GUI VM Selector Window 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:00.501802 Log opened 2021-02-25T00:52:14.491579000Z
+00:00:00.501802 Build Type: release
+00:00:00.501805 OS Product: Linux
+00:00:00.501806 OS Release: 5.11.1-arch1-1
+00:00:00.501807 OS Version: #1 SMP PREEMPT Tue, 23 Feb 2021 14:05:30 +0000
+00:00:00.501830 DMI Product Name: 4291W71
+00:00:00.501841 DMI Product Version: ThinkPad X220
+00:00:00.501849 Firmware type: BIOS
+00:00:00.501888 Host RAM: 7837MB (7.6GB) total, 7034MB (6.8GB) available
+00:00:00.501895 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.501896 Process ID: 71246
+00:00:00.501896 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.501923 Qt version: 5.15.2
+00:00:00.573666 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.319749 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 753x18 x 599x736
+00:00:01.326667 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:03.876417 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:04.092532 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:04.186027 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:04.232366 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:15.533251 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:15.609326 GUI: UIMediumEnumerator: Medium-enumeration finished!

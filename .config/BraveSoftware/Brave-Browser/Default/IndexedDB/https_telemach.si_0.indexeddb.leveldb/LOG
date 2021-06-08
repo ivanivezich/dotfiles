@@ -1,0 +1,8 @@
+2021/04/10-20:43:58.719 1244 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_telemach.si_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/10-20:43:58.719 1244 Recovering log #4
+2021/04/10-20:43:58.719 1244 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_telemach.si_0.indexeddb.leveldb/000004.log 
+2021/04/10-20:44:02.796 c7f Level-0 table #8: started
+2021/04/10-20:44:02.796 c7f Level-0 table #8: 0 bytes OK
+2021/04/10-20:44:02.814 c7f Delete type=0 #4
+2021/04/10-20:44:02.815 c7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/10-20:44:02.815 c7f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

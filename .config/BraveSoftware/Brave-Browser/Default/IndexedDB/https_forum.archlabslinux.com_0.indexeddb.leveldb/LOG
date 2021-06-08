@@ -1,0 +1,15 @@
+2021/05/03-22:51:59.172 1b86 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/03-22:51:59.172 1b86 Recovering log #4
+2021/05/03-22:51:59.172 1b86 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/000004.log 
+2021/05/03-22:52:31.211 1c35 Level-0 table #8: started
+2021/05/03-22:52:31.226 1c35 Level-0 table #8: 925 bytes OK
+2021/05/03-22:52:31.239 1c35 Delete type=0 #4
+2021/05/03-22:52:31.239 1c35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/03-22:52:31.240 1c35 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00 $\x08@\x93wB\x00\x01A\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00t\x00/\x00c\x00a\x00n\x00t\x00-\x00s\x00t\x00a\x00r\x00t\x00x\x00/\x002\x004\x004\x003\x00/\x001\x002' @ 1719 : 1
+2021/05/03-22:52:31.240 1c35 Compacting 1@1 + 1@2 files
+2021/05/03-22:52:31.254 1c35 Generated table #9@1: 361 keys, 46840 bytes
+2021/05/03-22:52:31.254 1c35 Compacted 1@1 + 1@2 files => 46840 bytes
+2021/05/03-22:52:31.266 1c35 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/03-22:52:31.267 1c35 Delete type=2 #5
+2021/05/03-22:52:31.267 1c35 Delete type=2 #8
+2021/05/03-22:52:31.268 1c35 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00 $\x08@\x93wB\x00\x01A\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00t\x00/\x00c\x00a\x00n\x00t\x00-\x00s\x00t\x00a\x00r\x00t\x00x\x00/\x002\x004\x004\x003\x00/\x001\x002' @ 1719 : 1 .. (end); will stop at (end)

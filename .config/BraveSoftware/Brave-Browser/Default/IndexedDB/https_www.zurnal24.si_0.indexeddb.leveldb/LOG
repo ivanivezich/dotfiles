@@ -1,0 +1,15 @@
+2021/04/13-14:23:31.888 7420 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.zurnal24.si_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-14:23:31.888 7420 Recovering log #4
+2021/04/13-14:23:31.888 7420 Reusing old log /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.zurnal24.si_0.indexeddb.leveldb/000004.log 
+2021/04/13-14:24:01.659 7420 Level-0 table #8: started
+2021/04/13-14:24:01.668 7420 Level-0 table #8: 477 bytes OK
+2021/04/13-14:24:01.679 7420 Delete type=0 #4
+2021/04/13-14:24:01.679 7420 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/13-14:24:01.679 7420 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00d\x00a\x00t\x00e\x00L\x00a\x00s\x00t\x00C\x00h\x00e\x00c\x00k\x00e\x00d' @ 92 : 1
+2021/04/13-14:24:01.679 7420 Compacting 1@1 + 1@2 files
+2021/04/13-14:24:01.688 7420 Generated table #9@1: 29 keys, 737 bytes
+2021/04/13-14:24:01.688 7420 Compacted 1@1 + 1@2 files => 737 bytes
+2021/04/13-14:24:01.701 7420 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-14:24:01.702 7420 Delete type=2 #5
+2021/04/13-14:24:01.702 7420 Delete type=2 #8
+2021/04/13-14:24:01.702 7420 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00d\x00a\x00t\x00e\x00L\x00a\x00s\x00t\x00C\x00h\x00e\x00c\x00k\x00e\x00d' @ 92 : 1 .. (end); will stop at (end)

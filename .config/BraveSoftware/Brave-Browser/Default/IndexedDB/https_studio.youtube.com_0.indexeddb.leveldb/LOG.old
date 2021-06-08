@@ -1,0 +1,5 @@
+2021/03/10-12:00:14.528 3b25 Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/10-12:00:19.029 4039 Level-0 table #5: started
+2021/03/10-12:00:19.042 4039 Level-0 table #5: 1841 bytes OK
+2021/03/10-12:00:19.057 4039 Delete type=0 #3
+2021/03/10-12:00:19.057 4039 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

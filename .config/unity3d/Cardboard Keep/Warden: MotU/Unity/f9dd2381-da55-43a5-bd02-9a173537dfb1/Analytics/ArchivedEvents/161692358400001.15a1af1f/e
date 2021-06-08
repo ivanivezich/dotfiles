@@ -1,0 +1,12 @@
+(2){"type":"deviceInfo","ts":1616923584645,"make":"LinuxPlayer","model":"PC","processor_type":"Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz","system_memory_size":"7837","engine_ver":"5.3.4f1","app_name":"com.Company.ProductName","debug_build":false,"license_type":"personal","os_ver":"Linux 5.11 unknown 64bit","deviceid":"a36a9c6470db4d16b8f56ac214f6b560","app_ver":"1.0","changed":["app_ver","os_ver","sdk_ver"]}
+{"type":"custom","ts":1616923584669,"name":"unity.sceneLoad","custom_params":{"level_num":0,"total_levels":58,"level_name":"000-init-services"}}
+{"type":"custom","ts":1616923585036,"name":"unity.sceneLoad","custom_params":{"level_num":1,"total_levels":58,"level_name":"001-splash-screen"}}
+{"type":"appRunning","ts":1616923589167,"duration":4}
+{"type":"custom","ts":1616923589167,"name":"unity.sceneLoad","custom_params":{"level_num":2,"total_levels":58,"level_name":"008-controller-recommend"}}
+{"type":"appRunning","ts":1616923596956,"duration":11}
+{"type":"custom","ts":1616923596956,"name":"unity.sceneLoad","custom_params":{"level_num":3,"total_levels":58,"level_name":"002-main-menu"}}
+{"type":"appRunning","ts":1616923642460,"duration":56}
+{"type":"custom","ts":1616923642460,"name":"unity.sceneLoad","custom_params":{"level_num":4,"total_levels":58,"level_name":"007-intro-cinematic"}}
+{"type":"appRunning","ts":1616923662545,"duration":76}
+{"type":"custom","ts":1616923662545,"name":"unity.sceneLoad","custom_params":{"level_num":5,"total_levels":58,"level_name":"01-0-IntroSequence"}}
+{"type":"appRunning","ts":1616923695260,"duration":108}

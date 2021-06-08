@@ -1,0 +1,5 @@
+2021/03/09-10:11:54.489 3aaae Reusing MANIFEST /home/ivan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-10:14:24.297 3a932 Level-0 table #5: started
+2021/03/09-10:14:24.310 3a932 Level-0 table #5: 107114 bytes OK
+2021/03/09-10:14:24.324 3a932 Delete type=0 #3
+2021/03/09-10:14:24.324 3a932 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
